@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/william86370/Library/Mobile Documents/com~apple~CloudDocs/cs-150/problem-8/problem-8"
+      customWorkingDirectory = "/Users/william86370/Library/Mobile Documents/com~apple~CloudDocs/CS-150/CS-150_Introduction_To_Programming_C/problem-8/problem-8"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
